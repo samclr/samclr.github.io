@@ -6,7 +6,7 @@ navbar_entries:
     url: blog
 
   - title: website
-    url: https://www.abhinav.co
+    url: https://samclr.github.io
 
 project_entries:
   - title: Project 1
@@ -54,17 +54,8 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
-
-  - title: twitter
-    url: https://twitter.com/abhinav
-
-  - title: github
-    url: https://github.com/abhinavs
-
-  - title: feed
-    url: feed.xml
+  - title: Samuel Taylor's homepage
+    url: https://samclr.github.io
 
 misc_entries:
   - title: this is an example vertical list
@@ -77,7 +68,7 @@ misc_entries:
     url: false
 
   - title: Blog posts
-    post_list: true
+    post_list: false
     url: false
 
   - title: moonwalk on the Internet
